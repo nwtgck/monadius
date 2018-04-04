@@ -41,4 +41,4 @@ script:
  # NOTE: Just build not test
  - stack build
  - stack install
- - file monadius
+ - file $HOME/.local/bin/monadius
