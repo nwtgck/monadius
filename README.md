@@ -1,4 +1,5 @@
 # monadius
+[![Build Status](https://travis-ci.org/nwtgck/monadius.svg?branch=master)](https://travis-ci.org/nwtgck/monadius)
 
 NOTE: This is a forked repository from [tanakh/monadius](https://github.com/tanakh/monadius).  
 I am just the guy who packaged it into a stack project!
